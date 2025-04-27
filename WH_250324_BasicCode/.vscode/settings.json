@@ -1,0 +1,10 @@
+{
+    "files.associations":{
+    "stdio.h":"c"
+    },
+    "workbench.colorCustomizations": {
+        "editor.background": "#c8e6c9"
+    },
+    "files.autoSave": "afterDelay",
+    "C_Cpp.errorSquiggles": "disabled"
+}
